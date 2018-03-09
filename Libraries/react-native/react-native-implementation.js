@@ -69,6 +69,7 @@ const ReactNative = {
   get BackHandler() { return require('BackHandler'); },
   get CameraRoll() { return require('CameraRoll'); },
   get Clipboard() { return require('Clipboard'); },
+  get Cursor() { return require('Cursor'); },
   get DatePickerAndroid() { return require('DatePickerAndroid'); },
   get DeviceInfo() { return require('DeviceInfo'); },
   get Dimensions() { return require('Dimensions'); },
